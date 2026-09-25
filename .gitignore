@@ -1,0 +1,9 @@
+node_modules/
+dist/
+
+# Runtime data — never commit real capture records or secrets
+data/
+.env
+
+# OS
+.DS_Store
